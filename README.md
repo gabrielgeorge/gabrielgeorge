@@ -2,9 +2,9 @@
 
 - 💬 Ask me about Angular, RxJs, NgRx, React, and Vue
 - 📫 You can reach my on [@geo_ge](https://twitter.com/geo_ge) 
-- 💻 I work at [SSW](ssw.com.au/people/gabe)
+- 💻 I work at [SSW](https://ssw.com.au/people/gabe)
 - 📌 Live in Melbourne, Australia
-- ✍ I'm blogging on [devzilla.io](devzilla.io)
+- ✍ I'm blogging on [devzilla.io](https://devzilla.io)
 - 🌱 I’m currently learning Kubernetes
 
 
