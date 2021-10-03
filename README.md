@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 💬 Ask me about Angular, RxJs, NgRx, React, and Vue
+- 💬 Ask me about Angular, RxJs, and NgRx
 - 📫 You can reach my on [@geo_ge](https://twitter.com/geo_ge) 
-- 💻 I work at [Carsales](https://carsales.com.au)
+- 💻 I work at [Energy Australia](https://energyaustralia.com.au)
 - 📌 Live in Melbourne, Australia
 - ✍ I'm blogging on [devzilla.io](https://devzilla.io)
 - 🌱 I’m currently learning Kubernetes
